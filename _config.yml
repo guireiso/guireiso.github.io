@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: Reis Website
+title: Reis-de-Oliveira
 
 # Your name to show in the footer
-author: Guilherme
+author: Guilherme Reis-de-Oliveira
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre mim: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
